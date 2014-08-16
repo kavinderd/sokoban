@@ -14,6 +14,8 @@ level.move("RIGHT")
 level.move("RIGHT")
 level.move("RIGHT")
 level.move("RIGHT")
-
+level.move("LEFT")
+level.move("LEFT")
+level.move("LEFT")
 
 
